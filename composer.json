@@ -1,0 +1,21 @@
+{
+    "name": "ly827/yii2-adminlte",
+    "description": "yii2 adminlte 扩展",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension","adminlte","yii2-adminlte"],
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "ZhangDaomin",
+            "email": "315705030@qq.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "~2.0.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "ly827\\adminlte\\": ""
+        }
+    }
+}
